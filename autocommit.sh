@@ -34,7 +34,7 @@ mainsail_folder=~/mainsail
 ### By default that is 'main'
 branch=main
 
-db_file=~/printer_data/database/moonraker-sql.db
+#db_file=~/printer_data/database/moonraker-sql.db
 
 #####################################################################
 #####################################################################
@@ -68,12 +68,12 @@ grab_version(){
 # cp ~/printer_data/config/moonraker-sql.db ~/printer_data/database/
 # Finally, restart moonraker
 
-if [ -f $db_file ]; then
-   echo "sqlite based history database found! Copying..."
-   cp ~/printer_data/database/moonraker-sql.db ~/printer_data/config/
-else
-   echo "sqlite based history database not found"
-fi
+# if [ -f $db_file ]; then
+#    echo "sqlite based history database found! Copying..."
+#    cp ~/printer_data/database/moonraker-sql.db ~/printer_data/config/
+# else
+#    echo "sqlite based history database not found"
+# fi
 
 # To fully automate this and not have to deal with auth issues, generate a legacy token on Github
 # then update the command below to use the token. Run the command in your base directory and it will

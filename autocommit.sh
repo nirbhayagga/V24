@@ -19,7 +19,7 @@ grab_version(){
     mainsail_ver=$(head -n 1 $mainsail_folder/.version)
     m3="Mainsail version: $mainsail_ver"
   fi
-
+}
 push_config(){
   cd $config_folder
   git pull origin $branch --no-rebase

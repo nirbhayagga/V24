@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bash
 config_folder=~/printer_data/config
 klipper_folder=~/klipper
 moonraker_folder=~/moonraker

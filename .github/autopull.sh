@@ -8,7 +8,6 @@ branch=main
 
 pull_config(){
   cd $config_folder
-  git status
   git pull origin $branch 
   git status
   

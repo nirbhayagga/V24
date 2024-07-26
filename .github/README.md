@@ -1,8 +1,9 @@
 # Nirb's V24 Backup
 Backup and of my Voron 2.4 350mm 
+
 discord: nirb_agga
 
-## 
+---
 ## Features and Mods
 
 ### Current Features/Mods
@@ -42,7 +43,7 @@ discord: nirb_agga
 - [Snap Latches](https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion)
 - [Annex Latches](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 - [Hex Infill Skirts](https://www.printables.com/model/474406-voron-24-skirts-with-hex-infill-250-300-and-350mm-/comments/925640)
-- [hex Infill Screen Mount](https://www.printables.com/model/488819-voron-24-touch-screen-housing-for-btt-pi-tft50-v20/comments)
+- [Hex Infill Screen Mount](https://www.printables.com/model/488819-voron-24-touch-screen-housing-for-btt-pi-tft50-v20/comments)
 - [Hex Infill Pulley Cover](https://www.printables.com/model/477809-voron-24-z-axis-pulley-covers-hex-infill/collections)
 - [Hotkey Buttons](https://github.com/FYSETC/Hotkey)
 - [Lift Off Doors](https://www.printables.com/model/302551-lift-off-hinges-for-voron-trident-or-v2)
@@ -90,25 +91,17 @@ discord: nirb_agga
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 
 ## Other klipper backups/macros/repos I've found useful
-- [AndrewEllis93](https://github.com/AndrewEllis93/v2.247_backup_klipper_config)
-- [pushc6](https://github.com/pushc6/VoronConfig)
-- [kageurufu](https://github.com/kageurufu/3dp-voron2/tree/master/printer)
-- [wile-e1](https://github.com/wile-e1/klipper_config)
-- [th33xitus](https://github.com/th33xitus/klipper_config)
-- [jktightwad](https://github.com/jktightwad/Klipper24Config)
 - [mjoconr](https://github.com/mjoconr/Voron2.4-Config)
-- [zellneralex](https://github.com/zellneralex/klipper_config)
 - [Frix-x](https://github.com/Frix-x/klippain)
 - [richardjm](https://github.com/richardjm/voronpi-klipper-backup) 
 - [rkolbi](https://github.com/rkolbi/voron2.4)
 - [3DPrintDemon](https://github.com/3DPrintDemon/Demon_Klipper_Essentials_Unified)
-- [Mordenkainen](https://github.com/Mordenkainen/Voron24_Backup)
 - [jschuh](https://github.com/jschuh/klipper-macros)
-- [EricZimmerman](https://github.com/EricZimmerman?tab=repositories)
+- [EricZimmerman](https://github.com/EricZimmerman/VoronTools)
 - [hartk1213](https://github.com/hartk1213)
 - [TmRxJD (KOMB)](https://github.com/TmRxJD/KOMB/)tree/main
-- [mystoopidstuff](https://www.mystoopidstuff.com)
 - [mystoopidstuff](https://www.printables.com/@MyStoopidStuff)
+
 ## Pi CM4 Configs
 
 ### /etc/network/interfaces.d/can0
